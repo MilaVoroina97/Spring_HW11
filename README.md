@@ -11,4 +11,4 @@
 
 ## Grafana
 
-![img_2.png](img/img_2.png)
+![img.png](img/grafana.png)
