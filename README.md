@@ -7,7 +7,7 @@
 
 ![img_1.png](img/img_1.png)
 
-### Файл конфиг Prometheus [prometheus.yml]()
+### Файл конфиг Prometheus [prometheus.yml](https://github.com/MilaVoroina97/Spring_HW11/tree/main/src/main/resources/yaml)
 
 ## Grafana
 
